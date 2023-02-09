@@ -5,3 +5,6 @@ My Hobbies are:
       > Gaming
       > Sleeping
       > Eating
+I have started my coding journey in my college
+My first programming language is C++
+Followed by Html,CSS and Javascript
